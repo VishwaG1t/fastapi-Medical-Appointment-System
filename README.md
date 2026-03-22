@@ -63,7 +63,7 @@ A **FastAPI backend application** designed for managing doctors and appointments
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vi1t/fastapi-Medical-Appointment-System.git
+git clone https://github.com/VishwaG1t/fastapi-Medical-Appointment-System.git
 cd fastapi-project
 ```
 
